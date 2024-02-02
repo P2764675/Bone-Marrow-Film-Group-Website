@@ -1,0 +1,63 @@
+hr{
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+    color: white;
+}
+
+h1{ 
+    
+    font-size: 50px;
+    color: limegreen;
+    -webkit-text-stroke-color: white;
+    stroke-width: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2{
+        position: relative;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        stroke: limegreen;
+        stroke-width: 10%;
+        background-color: black;
+        background-
+}   
+
+ p{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+ }
+
+ .bigGreen{font-size: 50px;
+    color: limegreen;
+    -webkit-text-stroke-color: white;
+    stroke-width: 10%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: limegreen;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+ button{
+    padding:0px;
+    border: none;
+    background: none:
+
+ }
+
+ img{
+    background-color: black;
+ }
+
+
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
